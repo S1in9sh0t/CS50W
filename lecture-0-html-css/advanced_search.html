@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="dark light" name="color-scheme">
+    <meta content="origin" name="referrer">
+    <title>Google</title>
+    <link rel="icon" type="image/x-icon" href="https://www.google.com/favicon.ico" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul class="nav-list-1">
+            <li><a href="https://www.google.com/webhp?tab=ww"><img
+                        src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_light_clr_74x24px.svg"></a>
+            </li>
+        </ul>
+        <ul class="nav-list-2">
+            <li><a href="index.html">Search</a></li>
+            <li><a href="image_search.html">Images</a></li>
+        </ul>
+        <div class="nav-list-3">
+            <a class="active" href="https://www.google.co.uk/intl/en/about/products">
+                <svg class="app-button" focusable="false" viewBox="0 0 24 24">
+                    <path
+                        d="M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z">
+                    </path>
+                    <image src="https://ssl.gstatic.com/gb/images/bar/al-icon.png" alt="Google apps"></image>
+                </svg>
+            </a>
+        </div>
+        <div class="nav-list-4">
+            <a class="button" href="https://accounts.google.com">Sign in</a>
+        </div>
+    </nav>
+    <div>
+        <label class="advanced-search-title">Advanced Search</label>
+    </div>
+    <div class="advanced-search">
+        <form action="https://www.google.com/search" method="get">
+            <label class="find-pages">Find pages with...</label>
+            <div class="whitespace"></div>
+            <label>To do this in the search box.</label>
+            <div class="form-group">
+                <label>All these words:</label>
+                <input type="text" name="as_q">
+                <div class="form-description">
+                    Type the important words: <span class="monospace">tri-colour rat terrier</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>This exact word or phrase:</label>
+                <input type="text" name="as_epq">
+                <div class="form-description">
+                    Put exact words in quotes: <span class="monospace">"rat terrier"</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Any of these words: </label>
+                <input type="text" name="as_oq">
+                <div class="form-description">
+                    Type OR between all the words you want: <span class="monospace">miniature OR standard</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>None of these words:</label>
+                <input type="text" name="as_eq">
+                <div class="form-description">
+                    Put a minus sign just before words that you don't want: <span class="monospace">-rodent, -"Jack
+                        Russell"</span>
+                </div>
+            </div>
+                <input type="submit" class="button-advanced" value="Advanced Search">
+        </form>
+    </div>
+</body>
+
+</html>
