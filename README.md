@@ -2,7 +2,7 @@
 
 This project aims to develop a more lightweight, more up to date, and more responsive adaptation of deliberately insecure projects such as OWASP Juice Shop, DVWA and WebGOAT.
 
-In alignment with my day to day work as a security consultant and penetration tester, developing this application will not only broaden my technical skillset and understanding, but directly contribute to my effectiveness as a regular advisor to development teams across the world.
+In alignment with my day to day work as a security consultant and penetration tester, developing this application will not only broaden my technical skillset and understanding, but directly contribute to my effectiveness as a regular advisor to the development teams I work with.
 
 ## Frontend
 
