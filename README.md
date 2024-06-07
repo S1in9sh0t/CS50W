@@ -1,12 +1,8 @@
 # CS50W: Capstone Project - SmashBoxVM: The Hackening
 
----
-
 This project aims to develop a more lightweight, more up to date, and more responsive adaptation of deliberately insecure projects such as OWASP Juice Shop, DVWA and WebGOAT.
 
 In alignment with my day to day work as a security consultant and penetration tester, developing this application will not only broaden my technical skillset and understanding, but directly contribute to my effectiveness as a regular advisor to development teams across the world.
-
----
 
 ## Frontend
 
@@ -42,8 +38,6 @@ Making the website dynamic, a landing page updated regularly with the exploit st
   - Account deletion
 - List of exploits and brief explanations
   - Each exploit has a page where you can find a working example of the vulnerability
-
----
 
 ## Backend
 
@@ -81,4 +75,3 @@ Further development is planned as this application is built. This is a lot to in
 
 Eventually, I would like to have the site periodically generate new users and scores to maintain the dynamism of the application. This way, when the repository is cloned locally and not hosted online, it adds a sense of competition while using the resources the application aims to provide.
 
----
