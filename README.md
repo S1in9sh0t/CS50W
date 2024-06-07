@@ -1,4 +1,4 @@
-# CS50W: Capstone Project - SmashBoxVM: The Hackening
+# CS50W: Capstone Project - SmashBoxVM
 
 This project aims to develop a more lightweight, more up to date, and more responsive adaptation of deliberately insecure projects such as OWASP Juice Shop, DVWA and WebGOAT.
 
