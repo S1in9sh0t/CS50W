@@ -79,5 +79,5 @@ Eventually, I would like to have the site periodically generate random new users
 
 ### Timeline
 
-The CS50W course material spans nine weeks over six projects. The aim is to condense down my learning and create the capstone project alongside the materials provided. To elaborate, a full day may include one half of studying the material and completing tasks with the remainder used for developing my own application.
+The CS50W course material spans nine weeks over six projects. The aim is to condense down my learning and create the capstone project alongside the course materials provided. To elaborate, a full day may include one half of studying the material and completing tasks with the remainder used for developing my own application.
 
