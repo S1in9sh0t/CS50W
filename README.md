@@ -8,7 +8,7 @@ In alignment with my day to day work as a security consultant and penetration te
 
 ## Frontend
 
-Making the website dynamic, a landing page updated regularly with the exploit statistics of the participating userbase is generated with each refresh of the page. Side-by-side view of the login form fields and a rotation of the latest successes displayed with usernames and scores. This is deliberately insecure practice, as it provides an ever rotating username enumeration carousel for anyone on the outside of the application looking to get in.
+To make the website dynamic, a landing page updated regularly with the exploit statistics of the participating userbase is generated with each refresh of the page. Side-by-side view of the login form fields and a rotation of the latest successes displayed with usernames and scores. This is deliberately insecure practice, as it provides an ever rotating username enumeration carousel for anyone on the outside of the application looking to get in.
 
 ### Account Management
 
