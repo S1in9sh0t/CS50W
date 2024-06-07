@@ -1,6 +1,8 @@
 # CS50W: Capstone Project - SmashBoxVM
 
-This project aims to develop a more lightweight, more up to date, and more responsive adaptation of deliberately insecure projects such as OWASP Juice Shop, DVWA and WebGOAT.
+## Distinctiveness and Complexity
+
+This project aims to develop an application similar to deliberately vulnerable security projects such as OWASP Juice Shop, DVWA and WebGOAT. Fully realised, I believe this will satisfy the distinctiveness and complexity requirements mentioned at the [CS50W capstone project](https://cs50.harvard.edu/web/2020/projects/final/capstone/) page. Implementing common vulnerabilities, such as listed below, a leaderboard system with user account and session management is distinct from all of the projects that are part of the courseware provided.
 
 In alignment with my day to day work as a security consultant and penetration tester, developing this application will not only broaden my technical skillset and understanding, but directly contribute to my effectiveness as a regular advisor to the development teams I work with.
 
@@ -73,5 +75,9 @@ Making the website dynamic, a landing page updated regularly with the exploit st
 
 Further development is planned as this application is built. This is a lot to include already alongside learning Python and JavaScript programming, but we should end up with a working prototype for a security training VM.
 
-Eventually, I would like to have the site periodically generate new users and scores to maintain the dynamism of the application. This way, when the repository is cloned locally and not hosted online, it adds a sense of competition while using the resources the application aims to provide.
+Eventually, I would like to have the site periodically generate random new users and scores to maintain the dynamism of the application. This way, when the repository is cloned locally and not hosted online, it adds a sense of competition.
+
+### Timeline
+
+The CS50W course material spans nine weeks over six projects. The aim is to condense down my learning and create the capstone project alongside the materials provided. To elaborate, a full day may include one half of studying the material and completing tasks with the remainder used for developing my own application.
 
