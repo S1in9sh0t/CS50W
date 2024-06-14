@@ -2,13 +2,13 @@
 
 ## Distinctiveness and Complexity
 
-This project aims to develop an application similar to deliberately vulnerable security projects such as OWASP Juice Shop, DVWA and WebGOAT. Fully realised, I believe this will satisfy the distinctiveness and complexity requirements mentioned at the [CS50W capstone project](https://cs50.harvard.edu/web/2020/projects/final/capstone/) page. Implementing common vulnerabilities, such as listed below, a leaderboard system with user account and session management is distinct from all of the projects that are part of the courseware provided.
+This project aims to develop an application similar to deliberately vulnerable security projects such as OWASP Juice Shop, DVWA and WebGOAT. Fully realised, I believe this will satisfy the distinctiveness and complexity requirements mentioned at the [CS50W capstone project](https://cs50.harvard.edu/web/2020/projects/final/capstone/) page. THe implementation of common vulnerabilities, such as listed below, a leaderboard system with user accounts and session management is distinct from the projects that are part of the courseware provided.
 
 In alignment with my day to day work as a security consultant and penetration tester, developing this application will not only broaden my technical skillset and understanding, but directly contribute to my effectiveness as a regular advisor to the development teams I work with.
 
 ## Frontend
 
-To make the website dynamic, a landing page updated regularly with the exploit statistics of the participating userbase is generated with each refresh of the page. Side-by-side view of the login form fields and a rotation of the latest successes displayed with usernames and scores. This is deliberately insecure practice, as it provides an ever rotating username enumeration carousel for anyone on the outside of the application looking to get in.
+To make the website dynamic, a landing page updated regularly with the exploit statistics of the participating userbase will be generated with each refresh of the page. A side-by-side view of the login form fields and a rotation of the latest successes with usernames and scores will be displayed. This is deliberately insecure practice, as it provides an ever rotating username enumeration carousel for anyone on the outside of the application looking to get in.
 
 ### Account Management
 
@@ -83,4 +83,4 @@ The CS50W course material spans nine weeks over six projects. The aim is to cond
 
 **Target**: 4 weeks from 10/06/2024, to 07/07/2024
     - CS50W completed to the prerequisite standards for submission
-    - The SmashBox application operational and fully implemented (styling and poolish secondary to complete functionality and deployment using Docker)
+    - The SmashBox application operational and fully implemented (styling and polish secondary to complete functionality and deployment using Docker)
