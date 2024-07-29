@@ -81,6 +81,6 @@ Eventually, I would like to have the site periodically generate random new users
 
 The CS50W course material spans nine weeks over six projects. The aim is to condense down my learning and create the capstone project alongside the course materials provided. To elaborate, a full day may include one half of studying the material and completing tasks with the remainder used for developing my own application.
 
-**Target**: 4 weeks from 10/06/2024, to 07/07/2024
+**Target**
     - CS50W completed to the prerequisite standards for submission
     - The SmashBox application operational and fully implemented (styling and polish secondary to complete functionality and deployment using Docker)
